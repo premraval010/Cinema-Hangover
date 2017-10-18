@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\17447341a0fe099a06da78c7b4e190df171136cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_ef2bca219abf582e968b67de631dd18e3f24149e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_53d1fd3c7936ebe1b5a211c89b56e27ec17e09b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\3041a1080bb090d851e82134966e325eedaf895d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_04cac031c764e4800a98eaedb37d84c2500f4137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\b02764c9fb362df30fffafe748548098fd29c962\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_aa71cddba7ac52b5629273ce713043420410f066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\f82332cd1aea25496e03545356d71d88d8ac95e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_5508579edcfd641cedb9fcfcb582b5b7323dee4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\83848724e6a6c8cc3dee78e6b806260593b8cd17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_105e0a8323fa757672b36c0701ee408227db5cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_2e60f99092889708005782a4514f857ceadcad68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\a612e900b9bef41af7c227f7bb8a03e64c7a37af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_85e5dbcbbab418d98eeaa176fe313387476fca3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\682596db2246305366e8d9ecdb15c110f3ec1bdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_b6e3b4755d03183adcf8b1f4c9c93a85f6665358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\13d7f6110a9eadce9fd6448d5df2f8aba96de92e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_b7c32c366d2d9f25ceb52da3abe643516e7b1b42.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7cdd802ca32737a7f94769058db5c6f0c53d0d8">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_695dfaf31080ad904d0569f3ef6761e2d56f4b35\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\01766d2dd61872cda019705c56184d6f3a14aabe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_3fda3e3b793439530d17c89eb768e3c06337422e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nirmal\.android\build-cache\ab5044b708c2c05ed500ba3d14eeb65831328c02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\pre-dexed\debug\classes_17bfc57a2ca0deaa3bfbdf3a71b2933d17416556.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Nirmal\Desktop\CinemaHangover\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_12f8da0764d73bd8b6da547f260854d7970aa48b\classes.dex" />
+    </item>
+
+</items>
